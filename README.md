@@ -19,5 +19,7 @@
 ## 3 程序运行调试状况
 打开串口，终端开始周期性地采集温度,烟雾，光强数据。同时，打开服务器，安卓端与PC端连接在同一IP地址上。协调器把从终端采集到的数据发给上位机，上位机进行数据判断，若烟雾浓度大于阈值，触发报警指示，同步给安卓端，安卓端小灯闪烁。并且把数据上报给云平台。
 
-<img width="479" height="87" alt="图片" src="https://github.com/user-attachments/assets/002f3961-5fe9-466c-9802-044947e5f406" />
+https://github.com/user-attachments/assets/a9538339-bbaa-4657-becd-f6ce30cb67d2
+
+
 
